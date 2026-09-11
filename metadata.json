@@ -1,0 +1,6 @@
+{
+  "name": "www.desilivecam.com - Official Verified Account",
+  "description": "www.desilivecam.com Google ভেরিফাইড অফিসিয়াল সার্ভিস, ভিডিও কল প্যাকেজ ও পেমেন্ট তথ্য",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
